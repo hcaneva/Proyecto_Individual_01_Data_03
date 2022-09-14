@@ -76,7 +76,8 @@ A continuacion podemos observar el resultado de la consulta:<br>
 
 ## Video demo
 
-Les dejo el link al [video demo](https://youtu.be/4ekn7xf1HY0) donde se explica detalladamente la creacion de la API.
+Link al [video demo](https://youtu.be/4ekn7xf1HY0) donde se explica detalladamente la creacion y utilización de la API.
+[![Alt text](https://img.youtube.com/vi/4ekn7xf1HY0/0.jpg)](https://www.youtube.com/watch?v=4ekn7xf1HY0)
 
 
 ## Author 
